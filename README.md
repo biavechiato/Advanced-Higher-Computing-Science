@@ -1,5 +1,7 @@
 # Advanced-Higher-Computing-Science
 
+Some solutions to ADVH Computing Science tasks
+
 Rules, outlines and assumptions for each of the tasks
 
 
